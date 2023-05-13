@@ -1,0 +1,6 @@
+Example Plugin
+example_plugin
+1.0
+NerdyPuzzle
+An example plugin project with Plugin Builder
+Made with MCreator plugin builder by NerdyPuzzle
