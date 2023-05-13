@@ -1,0 +1,30 @@
+Example proecdure block
+0
+0.75 0.161765 0.161765 1
+Advanced [END]
+16
+Print to console: %1 %2 %3 %4 %5
+0
+5
+0 0 0 0 0
+x
+Number
+5
+0
+y
+Number
+5
+0
+z
+Number
+5
+0
+entity_test
+Entity
+2
+sourceentity
+Entity
+2
+[VERSION] 1.19.4 Forge
+1
+0

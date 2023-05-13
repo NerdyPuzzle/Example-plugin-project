@@ -1,0 +1,8 @@
+Example translation
+fr_FR
+blockly.block.example_proecdure_block
+weird french stuff
+trigger.example_global_trigger
+french french
+blockly.category.example_category
+baguette

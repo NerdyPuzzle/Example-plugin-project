@@ -1,0 +1,5 @@
+System.out.println(${input$sourceentity});
+System.out.println(${input$entity_test});
+System.out.println(${input$z});
+System.out.println(${input$y});
+System.out.println(${input$x});
