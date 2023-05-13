@@ -1,12 +1,12 @@
 Example proecdure block
 0
 0.75 0.161765 0.161765 1
-Advanced [END]
-16
-Print to console: %1 %2 %3 %4 %5
+Example category [END]
+17
+Print to console: %1 %2 %3 %4 %5 %6
 0
-5
-0 0 0 0 0
+6
+0 0 0 0 0 4
 x
 Number
 5
@@ -25,6 +25,11 @@ Entity
 sourceentity
 Entity
 2
+list
+Example datalist
+1
+procedure
 [VERSION] 1.19.4 Forge
 1
-0
+1
+Example API
