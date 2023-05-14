@@ -4,3 +4,4 @@ Example category
 Exampledatalist
 Example translation
 Example API
+Example animation

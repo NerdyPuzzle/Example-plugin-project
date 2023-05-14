@@ -1,0 +1,8 @@
+Example animation
+3
+0
+ageInTicks / 20.f
+1
+ageInTicks / 20.f
+2
+ageInTicks / 20.f
